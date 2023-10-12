@@ -28,13 +28,13 @@ from django.db import models
 #     class Meta:
 #         db_table = 'parkiviya_customuser'
 
-class ParkingSpot(models.Model):
-    level = models.CharField(max_length=1, choices=[('A', 'Level A'), ('B', 'Level B')])
-    spot_number = models.IntegerField(unique=True)
-    vehicle_number = models.CharField(max_length=15, blank=True, null=True)
-
-    def __str__(self):
-        return f"{self.level} - {self.spot_number}"
-
-    class Meta:
-        db_table = 'parkingspot'
+# class ParkingSpot(models.Model):
+#     level = models.CharField(max_length=1, choices=[('A', 'Level A'), ('B', 'Level B')])
+#     spot_number = models.IntegerField(unique=True)
+#     vehicle_number = models.CharField(max_length=15, blank=True, null=True)
+#
+#     def __str__(self):
+#         return f"{self.level} - {self.spot_number}"
+#
+#     class Meta:
+#         db_table = 'parkingspot'
