@@ -1,0 +1,19 @@
+
+7
+main.py,f/1/f1bdda93d9a278e358509d498e17d97764c1fb29
+O
+parkiviya/parkiviya_app/urls.py,3/c/3c6984bf1ad85e584b05f8bc079aec3831097212
+P
+ parkiviya/parkiviya_app/admin.py,c/c/cca76c81488385c0778838e967723a716a91bb9e
+R
+"parkiviya/parkiviya_app/manager.py,2/b/2b2a526767f8f1c7d757aaec0650654f2028970e
+O
+parkiviya/parkiviya_app/apps.py,c/5/c54f3a36d510a7b713df611ceb75208dce830512
+O
+parkiviya/parkiviya/settings.py,7/c/7c00034f1f8ef7e2a7fdb53126566f08f3861f2f
+P
+ parkiviya/parkiviya_app/tests.py,4/5/458ee7cc8f71565ae3b31e39809ea0e9bd2c867d
+Q
+!parkiviya/parkiviya_app/models.py,9/8/987bf07cb5e31b2f037f956fa8fe2d8f13081ac4
+P
+ parkiviya/parkiviya_app/views.py,1/5/15b4bef3ce8433f3a4f30f5693840761d62675ea
